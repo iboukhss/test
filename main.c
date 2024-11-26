@@ -1,8 +1,8 @@
 #include <stdio.h>
 
+// Just a new comment here.
 int main(void)
 {
-	printf("Hello, world!\n");
-	printf("Goodbye, world!\n");
+	printf("Hi mom!\n");
 	return 0;
 }
